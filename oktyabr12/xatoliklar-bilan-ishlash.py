@@ -26,8 +26,8 @@
 
 # NameError - nom bo'yicha xatolik
 
-name = "Umarxon"
-print(ism)
+# name = "Umarxon"
+# print(ism)
 
 
 # umarxon
